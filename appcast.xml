@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <rss version="2.0"
+       xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/
+  sparkle"
+       xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+      <title>Read Aloud Updates</title>
+      <link>https://github.com/0nabilbk/readaloud</link>
+      <description>Latest releases of Read Aloud</description>
+      <language>en</language>
+
+      <item>
+        <title>Version 1.0.1</title>
+        <sparkle:releaseNotesLink>https://github.com/0nabilbk/
+  readaloud/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+        <pubDate>Mon, 03 Nov 2025 19:50:00 +0000</pubDate>
+        <enclosure
+          url="https://github.com/0nabilbk/readaloud/releases/
+  download/v1.0.1/ReadAloud-1.0.1.dmg"
+          sparkle:shortVersionString="1.0.1"
+          sparkle:version="1.0.1"
+          sparkle:minimumSystemVersion="13.0"
+          sparkle:edSignature="Aldx2pGvYxwuAZ3NmAV2kw0FWChx/
+  IWWhUX5KCQ6QFYQsihKQgOnKnujL63g3iz3H9kP5hu6AoTNdqiPwQGIBg=="
+          length="15872803"
+          type="application/octet-stream"/>
+      </item>
+    </channel>
+  </rss>
