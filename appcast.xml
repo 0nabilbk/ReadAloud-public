@@ -10,10 +10,10 @@
 
       <item>
         <title>Version 1.0.1</title>
-        <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/1.0.1</sparkle:releaseNotesLink>
         <pubDate>Mon, 03 Nov 2025 19:50:00 +0000</pubDate>
         <enclosure
-          url="https://github.com/0nabilbk/ReadAloud-public/releases/download/v1.0.1/ReadAloud-1.0.1.dmg"
+          url="https://github.com/0nabilbk/ReadAloud-public/releases/download/1.0.1/ReadAloud-1.0.1.dmg"
           sparkle:shortVersionString="1.0.1"
           sparkle:version="1.0.1"
           sparkle:minimumSystemVersion="13.0"
