@@ -9,16 +9,16 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.0.3</title>
-      <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/1.0.3</sparkle:releaseNotesLink>
-      <pubDate>Tue, 25 Nov 2025 18:20:17 +0000</pubDate>
+      <title>Version 1.0.4</title>
+      <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/1.0.4</sparkle:releaseNotesLink>
+      <pubDate>Tue, 25 Nov 2025 18:33:24 +0000</pubDate>
       <enclosure
-        url="https://github.com/0nabilbk/ReadAloud-public/releases/download/1.0.3/ReadAloud-1.0.3.dmg"
-        sparkle:shortVersionString="1.0.3"
-        sparkle:version="1.0.3"
+        url="https://github.com/0nabilbk/ReadAloud-public/releases/download/1.0.4/ReadAloud-1.0.4.dmg"
+        sparkle:shortVersionString="1.0.4"
+        sparkle:version="1.0.4"
         sparkle:minimumSystemVersion="13.0"
-        sparkle:edSignature="sparkle:edSignature="DtzQkpq4ZMAi6+Pg2nEnXF0KfOBSYJp25GNyEidOTM/vt6X2OkU8aMxyKmrL/cMvUcj6VpwIpspRaq8W9pDCBg==" length="15970901""
-        length="15970901"
+        sparkle:edSignature="sparkle:edSignature="8HgO3kuPZVqb/PTgFQ7IFH8unxQXpNdnmHXYP+Gf/AytW1gn8byLv/9mJhs2KmW3QWYqT+W29ErlFknXNromDQ==" length="15978178""
+        length="15978178"
         type="application/octet-stream"/>
     </item>
   </channel>
