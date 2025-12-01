@@ -10,7 +10,7 @@
 
     <item>
       <title>Version 1.1.0</title>
-      <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/1.1.0</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/v1.1.0</sparkle:releaseNotesLink>
       <pubDate>Mon, 01 Dec 2025 18:33:01 +0000</pubDate>
       <enclosure
         url="https://github.com/0nabilbk/ReadAloud-public/releases/download/1.1.0/ReadAloud-1.1.0.dmg"
