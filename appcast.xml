@@ -10,12 +10,12 @@
 
     <item>
       <title>Version 1.1.0</title>
-      <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/1.1.0</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/v1.1.0</sparkle:releaseNotesLink>
       <pubDate>Mon, 01 Dec 2025 18:33:01 +0000</pubDate>
       <enclosure
-        url="https://github.com/0nabilbk/ReadAloud-public/releases/download/1.1.0/ReadAloud-1.1.0.dmg"
+        url="https://github.com/0nabilbk/ReadAloud-public/releases/download/v1.1.0/ReadAloud-1.1.0.dmg"
         sparkle:shortVersionString="1.1.0"
-        sparkle:version="0"
+        sparkle:version="1100"
         sparkle:minimumSystemVersion="13.0"
         sparkle:edSignature="kE8Vk+U+mB2sEaCqGMOSMwbxSOHr1Ki5a+40ENzMAnuNfiFB57SpnSPEjM2ci255xK0OaHe5mFhEWlf6f9MkCQ=="
         length="16628792"
