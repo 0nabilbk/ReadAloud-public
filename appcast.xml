@@ -9,16 +9,16 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.1.3</title>
-      <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/v1.1.3</sparkle:releaseNotesLink>
-      <pubDate>Tue, 02 Dec 2025 22:21:03 +0000</pubDate>
+      <title>Version 1.1.4</title>
+      <sparkle:releaseNotesLink>https://github.com/0nabilbk/ReadAloud-public/releases/tag/v1.1.4</sparkle:releaseNotesLink>
+      <pubDate>Tue, 06 Jan 2026 15:31:05 +0000</pubDate>
       <enclosure
-        url="https://github.com/0nabilbk/ReadAloud-public/releases/download/v1.1.3/ReadAloud-1.1.3.dmg"
-        sparkle:shortVersionString="1.1.3"
-        sparkle:version="1106"
+        url="https://github.com/0nabilbk/ReadAloud-public/releases/download/v1.1.4/ReadAloud-1.1.4.dmg"
+        sparkle:shortVersionString="1.1.4"
+        sparkle:version="1107"
         sparkle:minimumSystemVersion="13.0"
-        sparkle:edSignature="C4OiQqVLVwOZpysSrp4NTkWEdW3M4oWSIG+l/gHhMppKerjX5340sOrwvTuUt+H8N3uB5GXZiJATjBTGKUJlBw=="
-        length="16664489"
+        sparkle:edSignature="mElcaHTJ/0FuG8knrcX8wz1jzZXvf/TlpRJDx1I8+eM+vSTL2+uU5MZxQTaQBiiOygD9b4UMXyxXP2cPfjdBBg=="
+        length="16680304"
         type="application/octet-stream"/>
     </item>
   </channel>
